@@ -6,7 +6,7 @@ npm run dev
 ```
 then go to localhost:5173
 
-### To test run
+### To run Tests run
 ```
 npm test
 ```
